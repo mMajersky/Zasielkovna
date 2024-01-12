@@ -1,0 +1,35 @@
+{
+    "delivery": [
+      {
+        "id": "JPR8795",
+        "status": "shipped",
+        "location": null,
+        "est": "15.1.2024"
+      },
+      {
+        "id": "ABC123",
+        "status": "in transit",
+        "location": "Warehouse A",
+        "est": "20.1.2024"
+      },
+      {
+        "id": "XYZ987",
+        "status": "delivered",
+        "location": "Customer's address",
+        "est": "12.1.2024"
+      },
+      {
+        "id": "DEF456",
+        "status": "processing",
+        "location": "Distribution center",
+        "est": "25.1.2024"
+      },
+      {
+        "id": "GHI789",
+        "status": "pending",
+        "location": null,
+        "est": "18.1.2024"
+      }
+    ]
+  }
+  

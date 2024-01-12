@@ -1,0 +1,101 @@
+{
+    "about": [
+      {
+        "title": "Project Title",
+        "budget": "Budget",
+        "deadline": "Deadline",
+        "client": "Client",
+        "items": [
+          {
+            "itemTitle": "Website Redesign",
+            "itemBudget": "$1,500 to $2,200",
+            "itemDeadline": "2022 Dec 12",
+            "itemClient": "Web Biz"
+          },
+          {
+            "itemTitle": "Website Renovation",
+            "itemBudget": "$2,500 to $3,600",
+            "itemDeadline": "2022 Dec 10",
+            "itemClient": "Online Ads"
+          },
+          {
+            "itemTitle": "Marketing Plan",
+            "itemBudget": "$2,500 to $4,200",
+            "itemDeadline": "2022 Dec 8",
+            "itemClient": "Web Biz"
+          },
+          {
+            "itemTitle": "All-new Website",
+            "itemBudget": "$3,000 to $6,600",
+            "itemDeadline": "2022 Dec 2",
+            "itemClient": "Web Presence"
+          }
+        ]
+      },
+      {
+        "title": "Project Title",
+        "budget": "Budget",
+        "deadline": "Deadline",
+        "client": "Client",
+        "items": [
+          {
+            "itemTitle": "Graphics Redesign",
+            "itemBudget": "$500 to $800",
+            "itemDeadline": "2022 Nov 24",
+            "itemClient": "Media One"
+          },
+          {
+            "itemTitle": "Digital Graphics",
+            "itemBudget": "$1,500 to $3,000",
+            "itemDeadline": "2022 Nov 18",
+            "itemClient": "Second Media"
+          },
+          {
+            "itemTitle": "New Artworks",
+            "itemBudget": "$2,200 to $4,400",
+            "itemDeadline": "2022 Nov 10",
+            "itemClient": "Artwork Push"
+          },
+          {
+            "itemTitle": "Complex Arts",
+            "itemBudget": "$1,100 to $2,400",
+            "itemDeadline": "2022 Nov 3",
+            "itemClient": "Media One"
+          }
+        ]
+      },
+      {
+        "title": "Project Title",
+        "budget": "Budget",
+        "estimated": "Estimated",
+        "technology": "Technology",
+        "items": [
+          {
+            "itemTitle": "Backend Coding",
+            "itemBudget": "$2,000 to $5,000",
+            "itemDeadline": "2022 Nov 28",
+            "itemTechnology": "PHP MySQL"
+          },
+          {
+            "itemTitle": "New Web App",
+            "itemBudget": "$1,500 to $3,000",
+            "itemDeadline": "2022 Nov 18",
+            "itemTechnology": "Python Programming"
+          },
+          {
+            "itemTitle": "Frontend Interactions",
+            "itemBudget": "$3,000 to $6,000",
+            "itemDeadline": "2022 Nov 10",
+            "itemTechnology": "JavaScripts"
+          },
+          {
+            "itemTitle": "Video Creations",
+            "itemBudget": "$1,800 to $4,400",
+            "itemDeadline": "2022 Nov 3",
+            "itemTechnology": "Multimedia"
+          }
+        ]
+      }
+    ]
+  }
+  

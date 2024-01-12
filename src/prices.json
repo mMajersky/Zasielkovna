@@ -1,0 +1,79 @@
+{
+    "prices": [
+      {
+        "country": "Slovakia",
+        "shipping_to_address": "3.60€",
+        "shipping_to_dropbox": "2.30€"
+      },
+      {
+        "country": "Germany",
+        "shipping_to_address": "5.00€",
+        "shipping_to_dropbox": "3.50€"
+      },
+      {
+        "country": "France",
+        "shipping_to_address": "4.80€",
+        "shipping_to_dropbox": "2.90€"
+      },
+      {
+        "country": "Italy",
+        "shipping_to_address": "6.20€",
+        "shipping_to_dropbox": "4.10€"
+      },
+      {
+        "country": "Spain",
+        "shipping_to_address": "5.50€",
+        "shipping_to_dropbox": "3.20€"
+      },
+      {
+        "country": "Austria",
+        "shipping_to_address": "4.50€",
+        "shipping_to_dropbox": "2.80€"
+      },
+      {
+        "country": "Netherlands",
+        "shipping_to_address": "5.20€",
+        "shipping_to_dropbox": "3.10€"
+      },
+      {
+        "country": "Belgium",
+        "shipping_to_address": "4.70€",
+        "shipping_to_dropbox": "2.60€"
+      },
+      {
+        "country": "Sweden",
+        "shipping_to_address": "6.80€",
+        "shipping_to_dropbox": "4.50€"
+      },
+      {
+        "country": "Denmark",
+        "shipping_to_address": "5.80€",
+        "shipping_to_dropbox": "3.90€"
+      }
+    ],
+    "storages": [
+        {
+          "location": "Nitra",
+          "size": "50m2",
+          "monthly_rent": "150€"
+        },
+        {
+          "location": "Bratislava",
+          "size": "30m2",
+          "monthly_rent": "120€"
+        },
+        {
+          "location": "Kosice",
+          "size": "40m2",
+          "monthly_rent": "130€"
+        },
+        {
+          "location": "Zilina",
+          "size": "25m2",
+          "monthly_rent": "100€"
+        }
+        
+      ]
+    
+  }
+  
