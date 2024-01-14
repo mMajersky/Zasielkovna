@@ -71,7 +71,7 @@ export default {
     handleSubmit() {
       this.selectedDelivery = this.deliveries.find((item) => item.id === this.deliveryId);
 
-      // If a delivery is found, set showState to true; otherwise, showNotFound to true
+
       if (this.selectedDelivery) {
         this.showState = true;
         this.showNotFound = false;

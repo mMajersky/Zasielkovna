@@ -17,7 +17,7 @@
   </div>
 </div>
 
-<!-- ***** Main Banner Area End ***** -->
+
 
 <section class="map">
   <div class="container">

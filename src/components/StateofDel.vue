@@ -3,7 +3,7 @@
       <h6>We got it!</h6>
       <h4>Here is what we got:</h4>
     </div>
-      <!-- Render details from delivery -->
+
       <div class="section-heading white-text">
   <table >
     <tr>

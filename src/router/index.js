@@ -28,10 +28,16 @@ const router = createRouter({
     },
     {     
       path: '/deliveries/:slug',
-       name: 'deliveries',
-       component: DeliveriesVue,
-       props: true, 
+      name: 'reserving',
+      component: () => import('../views/ReservingView.vue'),
+      props: true,
     }, 
+    {
+      path: '/deliveries/reserving/:location',
+      name: 'reserving',
+      component: () => import('../views/ReservingView.vue'),
+      props: true,
+    },
     {
       path: '/contact_us',
       name: 'contact',
@@ -48,6 +54,7 @@ const router = createRouter({
       // which is lazy-loaded when the route is visited.
       component: () => import('../views/TrackerView.vue')
     },
+
   ]
 })
 

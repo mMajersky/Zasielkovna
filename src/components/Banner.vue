@@ -9,10 +9,10 @@
         <div class="col-lg-7">
           <div class="buttons">
             <div class="green-button">
-              <a href="#">Discover More</a>
+              <a><RouterLink to="/about">Discover more</RouterLink></a>
             </div>
             <div class="orange-button">
-              <a href="#">Contact Us</a>
+              <a><RouterLink to="/contact_us">Contact Us</RouterLink></a>
             </div>
           </div>
         </div>
