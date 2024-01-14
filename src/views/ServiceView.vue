@@ -117,53 +117,8 @@ import SPrice from '../components/Storage_prices.vue'
                     </li>
                     <li>
                       
-                      <h3 class="item item-title">Your bussines is unique, and so will be our arrangement, we will contact you after filling our form.</h3>
-                      <section class="calculator">
-    <div class="container">
-      <div class="row">
+                      <h3 class="item item-title">Your bussines is unique, and so will be our arrangement, we will contact you after filling our <RouterLink to="/contact_us">form</RouterLink>.</h3>
 
-        <div class="col-lg-5">
-          <div class="section-heading">
-            <h6>Lets get to know each other better</h6>
-            <h4>Please fill this introduction form</h4>
-          </div>
-          <form id="calculate" action="" method="get">
-            <div class="row">
-              <div class="col-lg-6">
-                <fieldset>
-                  <label for="name">Your Name</label>
-                  <input type="name" name="name" id="name" placeholder="" autocomplete="on" required>
-                </fieldset>
-              </div>
-              <div class="col-lg-6">
-                <fieldset>
-                  <label for="email">Your Email</label>
-                  <input type="text" name="email" id="email" pattern="[^ @]*@[^ @]*" placeholder="" required="">
-                </fieldset>
-              </div>
-
-              <div class="col-lg-12">
-                <fieldset>
-                  <label for="chooseOption" class="form-label">Your Reason</label>
-                  <select name="Category" class="form-select" aria-label="Default select example" id="chooseOption" onchange="this.form.click()">
-                      <option selected>Choose an Option</option>
-                      <option value="E-shop">E-shop</option>
-                      <option value="Logistic">Bussines logistic</option>
-                      <option value="Crypto Investment">Storage facilities</option>
-                  </select>
-              </fieldset>
-              </div>
-              <div class="col-lg-12">
-                <fieldset>
-                  <button type="submit" id="form-submit" class="orange-button">Submit Now</button>
-                </fieldset>
-              </div>
-            </div>
-          </form>
-        </div>
-      </div>
-    </div>
-  </section>
                     </li>
                     <li>
                       <div>

@@ -16,12 +16,7 @@ import banner from '../components/Banner.vue'
                     <div class="div-dec"></div>
                     <p>From swift personal deliveries to comprehensive long-term solutions for businesses, our reliable and efficient services are designed to meet your unique needs. Explore our range of storage units, ensuring the utmost security for your belongings. Trust us to deliver beyond expectations, making every experience a satisfaction.</p>
                     <div class="buttons">
-                      <div class="green-button">
-                        <a href="#">Discover More</a>
-                      </div>
-                      <div class="orange-button">
-                        <a href="#">Contact Us</a>
-                      </div>
+
                     </div>
                   </div>
                 </div>
